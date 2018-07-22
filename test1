@@ -3,14 +3,11 @@ test1 in branch22
 2.
 3.3rd line in test1
 4.
-<<<<<<< HEAD
 5.editted in repo1
 6.
 7.
 8.
-=======
-5.modified in repo
-6.changes
-7.in repository1
+modified in repo
+changes
+in repository1
 
->>>>>>> 763f67cc9308dd9620cf315eb780ee5f2b803e5a
